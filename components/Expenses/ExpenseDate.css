@@ -1,0 +1,12 @@
+/* My design */
+.expense-date {
+  display: flex;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 5px;
+  flex-direction: column;
+  width: 65px;
+  align-items: center;
+  background-color: #925757;
+  font-weight: bold;
+}
